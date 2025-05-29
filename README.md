@@ -6,8 +6,6 @@ Projet scolaire de fin d’année – Licence Professionnelle MRT (Métiers des 
 Statut : En cours  
 👥 Équipe projet : 3 étudiants
 
----
-
 ## 🧑‍💻 Mon rôle – Responsable Développement & Interfaces
 
 Je suis en charge de la conception et du développement de l’**interface de gestion** du serveur de streaming ainsi que de la partie **web de commande**.
@@ -18,7 +16,6 @@ Je suis en charge de la conception et du développement de l’**interface de ge
 - Développement du site web de commande (lecture, redirection…)
 - Conception du dashboard : état du serveur, bande passante, accès
 
----
 
 ## 🛠️ Matériel utilisé
 
@@ -27,7 +24,6 @@ Je suis en charge de la conception et du développement de l’**interface de ge
 - Caméra IP D-Link
 - Set-top-box
 
----
 
 ## 🎯 Objectifs globaux du projet
 
@@ -37,7 +33,6 @@ Je suis en charge de la conception et du développement de l’**interface de ge
 - Mettre en place un site de commande simple pour déclencher la diffusion
 - Garantir la qualité de service via la gestion des priorités de flux
 
----
 
 ## 💡 Technologies utilisées ou prévues
 
@@ -48,7 +43,6 @@ Je suis en charge de la conception et du développement de l’**interface de ge
 - Protocoles : RTSP, HTTP, HLS, RTP
 - FTP sécurisé
 
----
 
 ## 📁 Structure prévue du dépôt
 
